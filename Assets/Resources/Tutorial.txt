@@ -1,0 +1,18 @@
+In Endless Mode the gameplay will continue indefinitely till the CPU manages to hit your back wall 7 times.*You win by breaking your highscore but your score must be greater than the CPU.
+Dark mode is no place for the weak hearted. You lose the moment CPU manages to hit your back wall.*You get no powerups and cannot distinguish between the blocks by vision. The CPU however does get powerups. Fair, Right?
+Marine Cruiser Destroyer mode gives you immense bullet power but decreases your CPU Ball hit sensitivity, but its fine as you can control the ball and the CPU with the bullets.*Block score becomes half in this mode.
+Drunk Mode certainly increases the challenge but the block score increases by 2 times.
+Place your finger at any point on the screen and slide it to the guide the Player Pad Accordingly * You have a limited area to move to block the ball from touching your WallPoint * The level ends when all the blocks are destroyed, you will win only if your score is greater than the CPU.*Hitting a block is worth 1 point, hitting the opponent's wall is worth 3 points.*Stay composed. If you try to hit the ball by moving too fast ahead, the ball will pass through the pad.*Blocking the ball is always better than moving ahead to hit it.
+Some blocks need to be hit twice or thrice to be destroyed.*You can differentiate between blocks by their material.
+Some blocks cannot be destroyed at all.*You must finish all the other blocks to complete the level.
+You will get various Powerups during the game.*The Big Ball Powerup increases the size of the ball for 10 seconds and it damages a neighboring block along with the block hit.
+Pad Long Powerup increases the length of your pad. Pad Short, naturally, decreases it for a duration of 10 seconds.*However, be careful, if you have a pad long powerup activated and you take the padshort on top of it, the effect gets cancelled and the pad becomes short for added duration of both powerups, the opposite is also true*Also, If you have a padlong powerup activated and you take another padlong powerup then the durations will be added to each other, i.e. the effect stacks up.
+Flare Ball Powerup makes the ball invincible and it passes through every block damaging it for a duration of 7 seconds. Effect stacks up.
+Trap Ball is a devilish power up that allows the block only to be hit by activator of the powerup.*The opponent won't be able to touch the blocks at all. Effect Stacks up.
+Speed Up and Speed down power ups increase and decrease the speed of the ball respectively for 10 seconds.*Speed up is activated for the whole field but speed down is enabled only in the user's vicinity.*Effects stack up and cancel each other out just like pad long and short.
+Gun powerup is the most powerful powerup as it enables the user to hit the blocks remotely for a duration of 5 seconds. Effect stacks up.
+Toggle Blocks are dual natured. One hit disables them and you can pass through, but the second hit enables them and they become materialized again.
+Multiball powerup increases the total amount of balls to 3 from 1  for 7 seconds.*The effect stacks up in duration.
+Magnet powerup attachs the ball to the pad and the player can move to a desired location and release the ball by tapping on the screen.* This effect has a duration of 10 seconds* This effect cancels the gun powerup and gets cancelled by the gun powerup, the duration gets adds however.
+Blink Blocks appear and disappear at regular intervals. Makes them real sneaky.
+Blast Blocks damage the surrounding blocks when they go off. Multiple Blast Blocks make an exploding chain.

@@ -1,0 +1,22 @@
+Big Ball*The ball size increases and damages adjoining blocks.
+Multi Ball*Number of balls increase from 1 to 3.
+Speed Up*The ball speed increases globally. Clashes with speed down.
+Speed Down*The ball speed decreases locally. Clashes with speed up.
+Pad Long*The size of the playing pad increases. Clashes with pad short.
+Pad Short*The size of the playing pad decreases. Clashes with pad long.
+Gun Pad*Enables particle shooting which allows remote destruction of blocks. Clashes with magnet.
+Magnet Pad*Attaches ball to the playing pad for precision strikes. Clashes with gun.
+Trap Ball*Disallows opponent to hit any blocks. Clashes with flare ball.
+Flare Ball*Passes through blocks. Clashes with trap ball.
+Basic Block 1*Gets destroyed on one hit
+Basic Block 2*Gets destroyed on two hits
+Basic Block 3*Gets destroyed after three hits
+Rock Block*Cannot be destroyed
+Toggle Block*One hit enables it, second hit disables it. The process repeats.
+Blink Block*Enables and disables with a fixed time rate.
+Blast Block*Explodes and damages surrounding blocks.
+Campaign Mode*Level ends when all blocks are destroyed.
+Endless Mode*Game doesn't end unless you get hit 7 times at the base wall.
+Dark Mode*You lose at the first wall point. No power ups. No vision.
+MCD Mode*Excessive power mode. Score halved.
+Drunk Mode*Loss of control. Score doubled.

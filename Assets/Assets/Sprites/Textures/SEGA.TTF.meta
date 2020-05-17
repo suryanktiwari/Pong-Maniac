@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: df6583f651653e646a8eed5332cde66e
+timeCreated: 1488638030
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SEGA LOGO FONT
+  fontNames:
+  - SEGA LOGO FONT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
